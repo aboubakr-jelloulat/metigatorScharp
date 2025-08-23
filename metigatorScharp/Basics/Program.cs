@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Basics._00_Indexers;
+using Basics._01_Delegate;
+
 
 namespace Basics
 {
@@ -12,8 +14,26 @@ namespace Basics
         static void Main(string[] args)
         {
 
-            Indexers.TestIndexers();
+            // ************  [Indexers]  ************
 
+
+            //Indexers.TestIndexers();
+
+
+            // ************  [Delegate]  ************
+
+
+            clsDelegate.TestDelegate();
+
+
+
+
+
+
+
+
+
+            Console.ReadKey();
         }
     }
 }
