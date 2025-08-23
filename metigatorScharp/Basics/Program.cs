@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Basics._00_Indexers;
 using Basics._01_Delegate;
+using Basics._02_Events;
 
 
 namespace Basics
@@ -23,13 +24,14 @@ namespace Basics
             // ************  [Delegate]  ************
 
 
-            clsDelegate.TestDelegate();
+            //clsDelegate.TestDelegate();
 
 
 
+            // ************  [Events]  ************
 
 
-
+            clsEvents.TestEvents();
 
 
 

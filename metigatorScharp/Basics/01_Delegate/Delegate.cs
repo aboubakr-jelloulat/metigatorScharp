@@ -111,8 +111,6 @@ namespace Basics._01_Delegate
 
             delg(10, 10);
 
-            
-
         }
 
         public delegate void RectDelegate(decimal with, decimal height);

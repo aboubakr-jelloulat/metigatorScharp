@@ -47,6 +47,8 @@
     <Compile Include="01_Delegate\Delegate.cs" />
     <Compile Include="01_Delegate\Employee.cs" />
     <Compile Include="01_Delegate\Report.cs" />
+    <Compile Include="02_Events\Events.cs" />
+    <Compile Include="02_Events\Stock.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
