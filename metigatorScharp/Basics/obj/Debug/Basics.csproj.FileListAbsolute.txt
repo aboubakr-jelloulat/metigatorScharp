@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\Basics\bin\Debug\Basics.exe.config
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\Basics\bin\Debug\Basics.exe
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\Basics\bin\Debug\Basics.pdb
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\Basics\obj\Debug\Basics.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\Basics\obj\Debug\Basics.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\Basics\obj\Debug\Basics.exe
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\Basics\obj\Debug\Basics.pdb
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\Basics\obj\Debug\Basics.exe.config
