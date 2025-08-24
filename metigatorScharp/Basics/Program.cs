@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Basics._00_Indexers;
 using Basics._01_Delegate;
 using Basics._02_Events;
-
+using Basics._03_Operator_Overloading;
 
 namespace Basics
 {
@@ -31,7 +31,15 @@ namespace Basics
             // ************  [Events]  ************
 
 
-            clsEvents.TestEvents();
+            //clsEvents.TestEvents();
+
+
+
+            // ************  [ Operator Overloading ]  ************
+
+
+            OPOverloading.TestOPOverloading();
+
 
 
 

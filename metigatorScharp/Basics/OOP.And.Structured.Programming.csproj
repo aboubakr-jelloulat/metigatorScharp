@@ -49,11 +49,13 @@
     <Compile Include="01_Delegate\Report.cs" />
     <Compile Include="02_Events\Events.cs" />
     <Compile Include="02_Events\Stock.cs" />
+    <Compile Include="03_Operator Overloading\OPOverloading.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
