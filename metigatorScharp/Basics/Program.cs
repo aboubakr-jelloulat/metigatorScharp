@@ -7,6 +7,7 @@ using Basics._00_Indexers;
 using Basics._01_Delegate;
 using Basics._02_Events;
 using Basics._03_Operator_Overloading;
+using Basics._04_Finalizer;
 
 namespace Basics
 {
@@ -31,6 +32,7 @@ namespace Basics
             // ************  [Events]  ************
 
 
+
             //clsEvents.TestEvents();
 
 
@@ -38,8 +40,15 @@ namespace Basics
             // ************  [ Operator Overloading ]  ************
 
 
-            OPOverloading.TestOPOverloading();
 
+            // OPOverloading.TestOPOverloading();
+
+
+
+            // ************  [ Finalizer ]  ************
+
+
+            Finalizer.TestFinalizer();
 
 
 
