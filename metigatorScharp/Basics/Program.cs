@@ -9,6 +9,7 @@ using Basics._02_Events;
 using Basics._03_Operator_Overloading;
 using Basics._04_Finalizer;
 using Basics._05_Nested_Type;
+using Basics.Debugging;
 
 
 namespace Basics
@@ -58,9 +59,14 @@ namespace Basics
             // ************  [ Nested Types ]  ************
 
 
-            Nesteds.TestNested();
+            //Nesteds.TestNested();
 
 
+
+            // ************  [ Debugging ]  ************
+
+
+            clsDebugging.TestDebugging();
 
 
             Console.ReadKey();
