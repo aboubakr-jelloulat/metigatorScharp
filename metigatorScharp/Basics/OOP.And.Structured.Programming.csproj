@@ -51,6 +51,7 @@
     <Compile Include="02_Events\Stock.cs" />
     <Compile Include="03_Operator Overloading\OPOverloading.cs" />
     <Compile Include="04_Finalizer\Finalizer.cs" />
+    <Compile Include="05_Nested Type\Nested_Type.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

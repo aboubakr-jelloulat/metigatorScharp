@@ -52,7 +52,7 @@ namespace Basics._04_Finalizer
 
             Console.WriteLine($"Memory Used Before Collection {GC.GetTotalMemory(false):N0}");
            
-            GC.Collect();
+            GC.Collect(); // Explicit Cleaning
 
             Console.WriteLine($"Memory Used Before Collection {GC.GetTotalMemory(true):N0}");
 
