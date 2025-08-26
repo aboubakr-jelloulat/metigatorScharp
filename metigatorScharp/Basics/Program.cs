@@ -11,6 +11,7 @@ using Basics._04_Finalizer;
 using Basics._05_Nested_Type;
 using Basics.Debugging;
 using Basics._06_ClassVsStruct;
+using Basics._07_Enums;
 
 
 namespace Basics
@@ -76,7 +77,17 @@ namespace Basics
 
 
 
-            clsStruct.TestStruct();
+            // clsStruct.TestStruct();
+
+
+
+
+            // ************  [ Enums ]  ************
+
+
+
+            clsEnums.TestEnums();
+
 
 
 

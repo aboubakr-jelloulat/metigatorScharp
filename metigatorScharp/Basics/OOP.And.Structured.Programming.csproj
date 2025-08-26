@@ -54,6 +54,7 @@
     <Compile Include="05_Nested Type\Nested_Type.cs" />
     <Compile Include="06_ClassVsStruct\Class.cs" />
     <Compile Include="06_ClassVsStruct\Struct.cs" />
+    <Compile Include="07_Enums\Enums.cs" />
     <Compile Include="Debugging\Debugging.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
