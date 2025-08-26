@@ -10,12 +10,14 @@ using Basics._03_Operator_Overloading;
 using Basics._04_Finalizer;
 using Basics._05_Nested_Type;
 using Basics.Debugging;
+using Basics._06_ClassVsStruct;
 
 
 namespace Basics
 {
     public class Program
     {
+
         static void Main(string[] args)
         {
 
@@ -25,7 +27,7 @@ namespace Basics
             //Indexers.TestIndexers();
 
 
-            // ************  [Delegate]  ************
+            // ************  [Delegate]  ***********
 
 
             //clsDelegate.TestDelegate();
@@ -66,7 +68,17 @@ namespace Basics
             // ************  [ Debugging ]  ************
 
 
-            clsDebugging.TestDebugging();
+            // clsDebugging.TestDebugging();
+
+
+
+            // ************  [ Class Vs  Struct ]  ************
+
+
+
+            clsStruct.TestStruct();
+
+
 
 
             Console.ReadKey();
