@@ -12,6 +12,7 @@ using Basics._05_Nested_Type;
 using Basics.Debugging;
 using Basics._06_ClassVsStruct;
 using Basics._07_Enums;
+using Basics._08_Inheritance;
 
 
 namespace Basics
@@ -86,8 +87,19 @@ namespace Basics
 
 
 
-            clsEnums.TestEnums();
 
+            //clsEnums.TestEnums();
+
+
+
+
+
+            // ************  [ Inheritance ]  ************
+
+
+            //Inheritance.TestInheritance();
+
+            Inheritance.TestPoly();
 
 
 

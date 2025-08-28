@@ -55,6 +55,7 @@
     <Compile Include="06_ClassVsStruct\Class.cs" />
     <Compile Include="06_ClassVsStruct\Struct.cs" />
     <Compile Include="07_Enums\Enums.cs" />
+    <Compile Include="08_Inheritance\Inheritance.cs" />
     <Compile Include="Debugging\Debugging.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
