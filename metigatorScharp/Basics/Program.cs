@@ -13,6 +13,7 @@ using Basics.Debugging;
 using Basics._06_ClassVsStruct;
 using Basics._07_Enums;
 using Basics._08_Inheritance;
+using Basics._09_Interface;
 
 
 namespace Basics
@@ -97,9 +98,24 @@ namespace Basics
             // ************  [ Inheritance ]  ************
 
 
+
+
+
             //Inheritance.TestInheritance();
 
-            Inheritance.TestPoly();
+            //Inheritance.TestPoly();
+
+
+
+
+
+
+            // ************  [ Interface ]  ************
+
+
+
+            clsInterface.TestInterface();
+
 
 
 
