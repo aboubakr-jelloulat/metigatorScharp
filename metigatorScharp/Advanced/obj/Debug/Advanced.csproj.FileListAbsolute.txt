@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\Advanced\obj\Debug\Advanced.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\Advanced\obj\Debug\Advanced.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\Advanced\bin\Debug\Advanced.exe.config
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\Advanced\bin\Debug\Advanced.exe
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\Advanced\bin\Debug\Advanced.pdb
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\Advanced\obj\Debug\Advanced.exe
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\Advanced\obj\Debug\Advanced.pdb
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\Advanced\obj\Debug\Advanced.exe.config

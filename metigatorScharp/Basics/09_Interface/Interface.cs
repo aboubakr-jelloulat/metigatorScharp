@@ -95,6 +95,13 @@ namespace Basics._09_Interface
 
         interface IMove
         {
+            // ** you can use default implementation but only after c# 8
+
+            //void Turn()
+            //{
+            //    Console.WriteLine("hej");
+            //}
+
             void Move();
         }
 
@@ -133,6 +140,7 @@ namespace Basics._09_Interface
             IMove m = new Car();
 
             m.Move();
+            //m.Turn(); after c# 8
 
         }
     }
