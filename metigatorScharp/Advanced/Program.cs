@@ -1,4 +1,5 @@
-﻿using Advanced.Generics;
+﻿using Advanced._01_Generic_delegate_Type;
+using Advanced.Generics;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,11 +16,22 @@ namespace Advanced
             // ************  [ Generics ]  ************
 
 
+
             //clsGenerics.TestGenericsMethod();
 
             //clsGenerics.TestGenericsClass();
 
-            clsGenerics.TestGenericConstraints();
+            //clsGenerics.TestGenericConstraints();
+
+
+
+
+            // ************  [ Generics Delegate Type ]  ************
+
+
+            Generic_delegate.TestGeneric_delegate();
+
+            //Generic_delegate.TestGeneric_delegateFunc_Action_Predicate();
 
 
 
