@@ -1,5 +1,6 @@
 ﻿using Advanced._01_Generic_delegate_Type;
 using Advanced._02_Exceptions;
+using Advanced.Enumerators_Iterators;
 using Advanced.Generics;
 using System;
 using System.Collections.Generic;
@@ -40,7 +41,21 @@ namespace Advanced
             // ************  [ Exceptions ]  ************
 
 
-            clsExceptions.TestExceptions();
+
+
+            // clsExceptions.TestExceptions();
+
+
+
+
+
+            // ************  [ Enumerators Iterators  ]  ************
+
+
+
+            clsEnumerators.TestEnumeratorsIterators();
+
+
 
 
 
