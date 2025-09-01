@@ -1,4 +1,5 @@
 ﻿using Advanced._01_Generic_delegate_Type;
+using Advanced._02_Exceptions;
 using Advanced.Generics;
 using System;
 using System.Collections.Generic;
@@ -29,9 +30,18 @@ namespace Advanced
             // ************  [ Generics Delegate Type ]  ************
 
 
-            Generic_delegate.TestGeneric_delegate();
+
+            //Generic_delegate.TestGeneric_delegate();
 
             //Generic_delegate.TestGeneric_delegateFunc_Action_Predicate();
+
+
+
+            // ************  [ Exceptions ]  ************
+
+
+            clsExceptions.TestExceptions();
+
 
 
 
