@@ -1,5 +1,6 @@
 ﻿using Advanced._01_Generic_delegate_Type;
 using Advanced._02_Exceptions;
+using Advanced._04_XML_Documentation;
 using Advanced.Enumerators_Iterators;
 using Advanced.Generics;
 using System;
@@ -53,8 +54,17 @@ namespace Advanced
 
 
 
-            clsEnumerators.TestEnumeratorsIterators();
 
+            //clsEnumerators.TestEnumeratorsIterators();
+
+
+
+
+
+            // ************  [ XML Documentation  ]  ************
+
+
+            xml.TestXml();
 
 
 
