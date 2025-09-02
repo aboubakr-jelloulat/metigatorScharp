@@ -3,14 +3,44 @@
 
 namespace Advanced._04_XML_Documentation
 {
+    /// <summary>
+    /// The Main Generator Class
+    /// </summary>
+    /// <remarks>
+    /// 
+    /// This class can generate Ids and password 
+    /// 
+    /// </remarks>
 
     public class Generator
     {
 
+        /// <value> value of last Id sequance   </value> 
         public static int LastIdSequence { get; private set; } = 1;
 
+
+        /// <summary>
+        /// Generate Employee Id by processing <paramref name="fname"/>, <paramref name="lname"/>, <paramref name="hireDate"/>
+        /// 
+        /// <list type="bullet"
+        /// 
+        /// <item>
+        ///     
+        ///<term>II</term>
+        /// 
+        /// <description> Employee Initials </description>
+        /// 
+        /// </item>
+        /// 
+        /// </summary>
+        /// <param name="fname"></param>
+        /// <param name="lname"></param>
+        /// <param name="hireDate"></param>
+        /// <returns></returns>
+        /// <exception cref="InvalidOperationException"></exception>
         public static string GenerateId(string fname, string lname, DateTime? hireDate)
         {
+            // II YY MM DD 01
 
             if (fname == null)
                 throw new InvalidOperationException($"{nameof(fname)} can not be null");
@@ -79,6 +109,7 @@ namespace Advanced._04_XML_Documentation
                 var rndmPassword = Generator.GenerateRandomPassword(8);
 
                 Console.WriteLine($"{{\nId : {empId}, \nFirst Name = {fname}, \nLast Name = {lname}, \nHire Date = {hireDate} \nPassword = {rndmPassword} \n}}");
+
 
             } while (1 == 1);
 
