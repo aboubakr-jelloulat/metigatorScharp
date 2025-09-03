@@ -50,6 +50,7 @@
     <Compile Include="04_XML_Documentation\xml.cs" />
     <Compile Include="05_Extention Methods\Extention.cs" />
     <Compile Include="05_Extention Methods\ExtentionMethode.cs" />
+    <Compile Include="06_Assemblies\Assemblies.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
