@@ -3,6 +3,7 @@ using Advanced._02_Exceptions;
 using Advanced._04_XML_Documentation;
 using Advanced._05_Extention_Methods;
 using Advanced._06_Assemblies;
+using Advanced._07_Reflection___MetaData;
 using Advanced.Enumerators_Iterators;
 using Advanced.Generics;
 using System;
@@ -87,12 +88,21 @@ namespace Advanced
             // ************  [  Assemblies  ]  ************
 
 
+            // you need more practice
+
+            // Assemblies.TestAssemblies();
 
 
-            Assemblies.TestAssemblies();
 
-            
 
+
+
+            // ************  [  Reflection & MetaData  ]  ************
+
+
+
+
+            Reflection_MetaData.TestReflection_MetaData();
 
 
 

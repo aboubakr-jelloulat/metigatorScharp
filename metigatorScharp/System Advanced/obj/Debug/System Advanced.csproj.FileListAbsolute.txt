@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\System Advanced\bin\Debug\System Advanced.exe.config
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\System Advanced\bin\Debug\System Advanced.exe
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\System Advanced\bin\Debug\System Advanced.pdb
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\System Advanced\obj\Debug\System Advanced.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\System Advanced\obj\Debug\System Advanced.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\System Advanced\obj\Debug\System Advanced.exe
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\System Advanced\obj\Debug\System Advanced.pdb
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\System Advanced\obj\Debug\System Advanced.exe.config

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AF905B6F-A369-4153-BF83-EA370AEC62DF}</ProjectGuid>
+    <ProjectGuid>{9231E1D2-3E65-40A1-862D-AE92C8D20445}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Advanced</RootNamespace>
-    <AssemblyName>Advanced</AssemblyName>
+    <RootNamespace>System_Advanced</RootNamespace>
+    <AssemblyName>System Advanced</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,21 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="00_Generics\Generics.cs" />
-    <Compile Include="01_Generic_delegate_Type\Generic_delegate.cs" />
-    <Compile Include="02_Exceptions\Exceptions.cs" />
-    <Compile Include="03_Enumerators Iterators\Enumerators.cs" />
-    <Compile Include="04_XML_Documentation\xml.cs" />
-    <Compile Include="05_Extention Methods\Extention.cs" />
-    <Compile Include="05_Extention Methods\ExtentionMethode.cs" />
-    <Compile Include="06_Assemblies\Assemblies.cs" />
-    <Compile Include="07_Reflection &amp; MetaData\Reflection &amp; MetaData.cs" />
+    <Compile Include="00_Stream\stream.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
