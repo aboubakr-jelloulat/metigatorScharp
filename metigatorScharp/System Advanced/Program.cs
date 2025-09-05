@@ -1,5 +1,6 @@
 ﻿using System;
 using System_Advanced._00_Stream;
+using System_Advanced._01_Nuget_Packages;
 
 namespace System_Advanced
 {
@@ -11,7 +12,18 @@ namespace System_Advanced
             // *********** [ Stream I/O ]  ***********
 
 
-            stream.TestStream();
+
+
+            //stream.TestStream();
+
+
+
+
+            // *********** [ Nuget Packages And Packaging ]  ***********
+
+
+
+            Nuget.Test();
 
 
 

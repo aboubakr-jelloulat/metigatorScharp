@@ -393,8 +393,9 @@ namespace System_Advanced._00_Stream
                 }
             }
 
-
         }
+
+
 
         public static void TestStream()
         {
