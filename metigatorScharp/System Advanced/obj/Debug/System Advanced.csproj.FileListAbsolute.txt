@@ -6,3 +6,6 @@ C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\System Advanced\obj\Debug\Sy
 C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\System Advanced\obj\Debug\System Advanced.exe
 C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\System Advanced\obj\Debug\System Advanced.pdb
 C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\System Advanced\obj\Debug\System Advanced.exe.config
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\System Advanced\bin\Debug\Humanizer.dll
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\System Advanced\bin\Debug\Humanizer.xml
+C:\Users\HP\Desktop\metigatorScharp\metigatorScharp\System Advanced\obj\Debug\System A.4AFB224E.Up2Date
