@@ -57,8 +57,11 @@ namespace System_Advanced
 
             //LongRunningTask.LongRunningTasks();
 
+            //ExceptionPropagation.ExceptionPropagations();
 
-            ExceptionPropagation.ExceptionPropagations();
+            TaskContinuations.TaskContinuation();
+
+
 
 
             Console.ReadKey();
