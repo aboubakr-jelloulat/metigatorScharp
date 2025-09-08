@@ -1,6 +1,7 @@
 ﻿using System;
 using System_Advanced._00_Stream;
 using System_Advanced._01_Nuget_Packages;
+using System_Advanced._03_Tasks_Asynchronous;
 using System_Advanced.Threading;
 
 namespace System_Advanced
@@ -41,7 +42,19 @@ namespace System_Advanced
             // *********** [Threading ]  ***********
 
 
-            clsThreading.MasterThreading();
+            //clsThreading.MasterThreading();
+
+
+
+
+            // *********** [Tasks Multithreading ]  ***********
+
+
+
+            TasksVsThread.TaskVsThreads();
+
+
+
 
 
 
