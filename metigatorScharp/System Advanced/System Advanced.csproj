@@ -50,6 +50,7 @@
     <Compile Include="01_Nuget Packages\Nuget.cs" />
     <Compile Include="03_Tasks-Asynchronous\02_TaskReturnValue.cs" />
     <Compile Include="03_Tasks-Asynchronous\01_TasksVsThreads.cs" />
+    <Compile Include="03_Tasks-Asynchronous\03_LongRunningTask.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="02_Threading\Threading.cs" />

@@ -51,11 +51,11 @@ namespace System_Advanced
 
 
 
-            TasksVsThread.TaskVsThreads();
+            //TasksVsThread.TaskVsThreads();
 
+            //TaskReturnValues.TaskReturnValue();
 
-
-
+            LongRunningTask.LongRunningTasks();
 
 
             Console.ReadKey();
