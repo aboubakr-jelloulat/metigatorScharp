@@ -59,9 +59,9 @@ namespace System_Advanced
 
             //ExceptionPropagation.ExceptionPropagations();
 
-            TaskContinuations.TaskContinuation();
+            //TaskContinuations.TaskContinuation();
 
-
+            TaskDelay.ft_TaskDelay();
 
 
             Console.ReadKey();
