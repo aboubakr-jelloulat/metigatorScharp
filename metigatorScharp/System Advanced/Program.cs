@@ -55,7 +55,10 @@ namespace System_Advanced
 
             //TaskReturnValues.TaskReturnValue();
 
-            LongRunningTask.LongRunningTasks();
+            //LongRunningTask.LongRunningTasks();
+
+
+            ExceptionPropagation.ExceptionPropagations();
 
 
             Console.ReadKey();
