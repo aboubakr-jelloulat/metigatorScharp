@@ -61,7 +61,9 @@ namespace System_Advanced
 
             //TaskContinuations.TaskContinuation();
 
-            TaskDelay.ft_TaskDelay();
+            //TaskDelay.ft_TaskDelay();
+
+            SynchronousVsAsynchronous.TestSynchronousVsAsynchronousAsync();
 
 
             Console.ReadKey();

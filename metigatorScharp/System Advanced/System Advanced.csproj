@@ -54,6 +54,7 @@
     <Compile Include="03_Tasks-Asynchronous\04_ExceptionPropagations.cs" />
     <Compile Include="03_Tasks-Asynchronous\05_TaskContinuation.cs" />
     <Compile Include="03_Tasks-Asynchronous\06_TaskDelay.cs" />
+    <Compile Include="03_Tasks-Asynchronous\07_Synchronous vs Asynchronous.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="02_Threading\Threading.cs" />
