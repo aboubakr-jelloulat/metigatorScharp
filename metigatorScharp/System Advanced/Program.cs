@@ -63,7 +63,11 @@ namespace System_Advanced
 
             //TaskDelay.ft_TaskDelay();
 
-            SynchronousVsAsynchronous.TestSynchronousVsAsynchronousAsync();
+            //SynchronousVsAsynchronous.TestSynchronousVsAsynchronousAsync();
+
+            //CancellationToken.CancellationTokensAsync();
+
+            TaskCombinators.TasksCombinators();
 
 
             Console.ReadKey();
