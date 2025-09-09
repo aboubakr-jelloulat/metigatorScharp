@@ -67,7 +67,9 @@ namespace System_Advanced
 
             //CancellationToken.CancellationTokensAsync();
 
-            TaskCombinators.TasksCombinators();
+            //TaskCombinators.TasksCombinators();
+
+            ConcurrencyAndParallelism.ConcurrencyAnd_Parallelism();
 
 
             Console.ReadKey();

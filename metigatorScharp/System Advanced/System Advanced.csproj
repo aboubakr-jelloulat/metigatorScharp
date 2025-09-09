@@ -57,6 +57,7 @@
     <Compile Include="03_Tasks-Asynchronous\07_Synchronous vs Asynchronous.cs" />
     <Compile Include="03_Tasks-Asynchronous\08_CancellationToken.cs" />
     <Compile Include="03_Tasks-Asynchronous\09_TaskCombinators.cs" />
+    <Compile Include="03_Tasks-Asynchronous\10_ConcurrencyAndParallelism.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="02_Threading\Threading.cs" />
